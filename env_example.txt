@@ -1,0 +1,18 @@
+# OpenAI API Key (Required for AI processing)
+# Get your API key from: https://platform.openai.com/api-keys
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Optional: Customize assistant settings
+ASSISTANT_NAME=Alexa
+SPEECH_RATE=150
+SPEECH_VOLUME=0.9
+
+# Optional: Weather API (for enhanced weather features)
+# WEATHER_API_KEY=your_weather_api_key_here
+
+# Optional: Email settings (for enhanced email features)
+# EMAIL_SMTP_SERVER=smtp.gmail.com
+# EMAIL_PORT=587
+# EMAIL_USERNAME=your_email@gmail.com
+# EMAIL_PASSWORD=your_app_password
+

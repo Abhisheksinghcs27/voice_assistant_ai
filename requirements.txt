@@ -1,0 +1,7 @@
+SpeechRecognition>=3.8.1
+pyttsx3>=2.90
+openai>=1.0.0
+python-dotenv>=0.19.0
+requests>=2.25.0
+PyAudio==0.2.11
+numpy>=1.21.0
